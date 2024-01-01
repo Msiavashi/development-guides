@@ -8,6 +8,8 @@ Explore the guidance documents and resources in this repository:
 
 - [HTTP Responses and Standards](./HTTP-RESPONSES.md): Learn about HTTP response formats, including error, success, warning, and informational responses. Understand the structure and examples for each response type.
 
+- [Applied Scrum Methodology](./SCRUM.md): This section provides an overview of the Applied Scrum Methodology, including user story creation, sprint planning, execution, review, and more. It outlines the best practices and processes for effective project management using Scrum for small/medium size teams.
+
 More documentation and resources will be added over time to help you enhance your web application development skills.
 
 ## Contributing
